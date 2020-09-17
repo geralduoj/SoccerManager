@@ -1,0 +1,47 @@
+﻿@model ClubListViewModel
+
+@{
+    ViewData["Title"] = "Clubs";
+    Layout = "~/Views/Shared/_GeneralLayout.cshtml";
+    ViewBag.Title = "Registered Clubs";
+}
+
+<main role="main">
+
+    <section class="jumbotron text-center">
+        <div class="container">
+            <h1>Registered Clubs</h1>
+            <p class="lead text-muted">Below are a list of clubs registered to Soccer Manager. If you are interested in joing us, please click the button below to register your club. Can't wait to get you on board!</p>
+            <p>
+                <a asp-controller="Clubs" asp-action="AddClub" class="btn btn-primary my-2">Register Your Club!</a>
+            </p>
+        </div>
+    </section>
+
+    <div class="album py-5 bg-light">
+        <div class="container">
+
+            <div class="row">
+                @foreach (Club club in Model.Clubs)
+                {
+                    <div class="col-md-4">
+                        <div class="card mb-4 shadow-sm">
+                            <div class="card-body">
+                                <h3><a class="text-dark" asp-controller="Clubs" asp-action="ClubInfo" asp-route-id="@club.ClubID">@club.ClubName</a></h3>
+                                <p class="card-text">@club.ClubBio</p>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div class="btn-group">
+                                        <a role="button"  asp-controller="Clubs" asp-action="ClubInfo" asp-route-id="@club.ClubID" class="btn btn-sm btn-outline-secondary">View Club Info</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+</main>
+
+

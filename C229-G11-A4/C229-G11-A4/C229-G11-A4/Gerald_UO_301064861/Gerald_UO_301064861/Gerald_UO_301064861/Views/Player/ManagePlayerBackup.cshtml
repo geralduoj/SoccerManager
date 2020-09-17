@@ -1,0 +1,97 @@
+﻿
+@{
+    ViewData["Title"] = "ManagePlayer";
+    Layout = "~/Views/Shared/_GeneralLayout.cshtml";
+}
+
+<main role="main">
+
+    <div class="album py-5 bg-light">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card mb-4 shadow-sm">
+                        <img src="~/img/chelseabanner.jpg" height="225" width="100%" alt="Chelsea Banner" />
+                        <div class="card-body">
+                            <p class="card-text">Jared Hump plays as a Goal keeper for Chelsea Football Club who are an English professional football club based in Fulham, London.</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-sm btn-danger"><i class="fas fa-user-minus"></i> Deregister Player</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div class="d-flex align-items-center p-3 my-3 text-white-50 bg-primary rounded shadow-sm">
+                        <i class="fas fa-2x mr-3 fa-running"></i>
+                        <div class="lh-100">
+                            <h6 class="mb-0 text-white lh-100">Jared Hump</h6>
+                            <small>Goal Keeper for Chelsea</small>
+                        </div>
+                    </div>
+
+                    <div class="my-3 p-3 bg-white rounded shadow-sm">
+                        <h6 class="border-bottom border-gray pb-2 mb-0">Player Info</h6>
+                        <div class="media text-muted pt-3">
+                            <svg class="bd-placeholder-img mr-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 32x32"><title>Placeholder</title><rect width="100%" height="100%" fill="#007bff" /><text x="50%" y="50%" fill="#007bff" dy=".3em">32x32</text></svg>
+                            <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+                                <strong class="d-block text-gray-dark">Full Name</strong>
+                                Jared Hump
+                            </p>
+                        </div>
+                        <div class="media text-muted pt-3">
+                            <svg class="bd-placeholder-img mr-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 32x32"><title>Placeholder</title><rect width="100%" height="100%" fill="#e83e8c" /><text x="50%" y="50%" fill="#e83e8c" dy=".3em">32x32</text></svg>
+                            <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+                                <strong class="d-block text-gray-dark">Age</strong>
+                                24
+                            </p>
+                        </div>
+                        <div class="media text-muted pt-3">
+                            <svg class="bd-placeholder-img mr-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 32x32"><title>Placeholder</title><rect width="100%" height="100%" fill="#6f42c1" /><text x="50%" y="50%" fill="#6f42c1" dy=".3em">32x32</text></svg>
+                            <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+                                <strong class="d-block text-gray-dark">Position</strong>
+                                Goal Keeper
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="my-3 p-3 bg-white rounded shadow-sm">
+                        <h6 class="border-bottom border-gray pb-2 mb-0">Reassign Player</h6>
+                        <div class="media text-muted pt-3">
+                            <form class="needs-validation" novalidate>
+
+
+                                <div class="row">
+                                    <div class="col-md-12 mb-3">
+                                        <label for="club">Choose a club to reassign player</label>
+                                        <select class="custom-select d-block w-100" id="club" required>
+                                            <option value="">Choose...</option>
+                                            <option>Chelsea</option>
+                                            <option>Manchester United</option>
+                                            <option>Manchester City</option>
+                                            <option>Tottenham</option>
+                                            <option>Liverpool</option>
+                                            <option>Arsenal</option>
+                                        </select>
+                                        <div class="invalid-feedback">
+                                            Please select a valid country.
+                                        </div>
+                                    </div>
+                                </div>
+                                <button class="btn btn-primary btn-sm btn-block" type="submit">Assign</button>
+                            </form>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+</main>

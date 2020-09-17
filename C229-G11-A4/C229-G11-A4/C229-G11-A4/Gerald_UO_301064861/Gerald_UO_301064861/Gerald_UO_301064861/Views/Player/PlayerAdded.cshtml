@@ -1,0 +1,52 @@
+﻿@model Player
+@{
+    ViewData["Title"] = "AddPlayer";
+    Layout = "~/Views/Shared/_GeneralLayout.cshtml";
+}
+
+<main role="main">
+
+    <div class="album py-5 bg-light">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card mb-4 shadow-sm">
+                        <div class="card-body">
+                            <p class="card-text">@ViewBag.Bio</p>
+                            <hr />
+                            <p class="card-text">Player Details</p>
+                            <p class="card-text">Player Full name: @Model.PlayerFirstname @Model.PlayerLastName</p>
+                            <p class="card-text">Player Position: @Model.PlayerPosition</p>
+                            <p class="card-text">Club: @ViewBag.ClubName</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <a class="btn btn-primary btn-sm btn-block nav-link" asp-controller="Clubs" asp-action="ClubInfo" asp-route-id="@ViewBag.ClubID">Club Info</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div class="d-flex align-items-center p-3 my-3 text-white-50 bg-primary rounded shadow-sm">
+                        <i class="fas fa-2x mr-3 fa-users"></i>
+                        <div class="lh-100">
+                            <h6 class="mb-0 text-white lh-100">@ViewBag.ClubName</h6>
+                            <small class="text-white">Player Added</small>
+                        </div>
+                    </div>
+
+                    <div class="my-3 p-3 bg-white rounded shadow-sm">
+                        <h6 class="border-bottom border-gray text-success pb-2 mb-0">SUCCESS</h6>
+                        <small>@Model.PlayerFirstname @Model.PlayerLastName has been added to @ViewBag.ClubName!</small>
+                        <a class="btn btn-primary btn-sm btn-block nav-link" asp-controller="Clubs" asp-action="ClubInfo" asp-route-id="@ViewBag.ClubID">View Club Profile</a>
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+</main>

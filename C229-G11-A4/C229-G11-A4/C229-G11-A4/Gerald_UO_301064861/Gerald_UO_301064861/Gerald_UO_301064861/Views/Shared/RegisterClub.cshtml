@@ -1,0 +1,43 @@
+﻿@model Club
+
+<div class="bg-light">
+
+
+    <div class="container">
+        <div class="py-5 text-center">
+            <h2>Register your Club!</h2>
+            <p class="lead">Use the form below to register your club to <strong>Soccer Manager</strong></p>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 order-md-1">
+                <h4 class="mb-3">Club Information</h4>
+                <form class="needs-validation" novalidate asp-action="AddClub" method="post">
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label asp-for="ClubName">Club Name</label>
+                            <input asp-for="ClubName" type="text" class="form-control" value="" required>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label asp-for="ClubManager">Club Manager</label>
+                            <input asp-for="ClubManager" type="text" class="form-control" value="" required>
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="ClubBio">Club Bio</label>
+                        <textarea asp-for="ClubBio" class="form-control rounded-0" rows="3"></textarea>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <button class="btn btn-primary btn-sm btn-block" type="submit">Save</button>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <a asp-controller="Home" asp-action="Index" class="btn btn-danger btn-sm btn-block">Cancel</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

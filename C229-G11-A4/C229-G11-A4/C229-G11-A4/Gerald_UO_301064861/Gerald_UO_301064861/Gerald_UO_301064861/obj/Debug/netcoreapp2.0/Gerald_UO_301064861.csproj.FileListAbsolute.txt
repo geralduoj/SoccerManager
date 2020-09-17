@@ -1,0 +1,153 @@
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\COMP229WAD\Assignment01\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\COMP229WAD\AssCheck1\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\Gerald\Documents\WAD\AssignmentSubmissions\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Courses\COMP229WAD\AssCheck1\Assignment02\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\WAD\Ass3\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\Gerald\Documents\compwad\Test\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\Gerald\Documents\compwad\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\haile\OneDrive\Desktop\C229-G11-A4 _0403\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\saish\Desktop\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\COMP229WAD\Submissions\Feature\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+C:\Users\saish\Desktop\C229-G11-A4 (5)\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\libman.json
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.deps.json
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.json
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.runtimeconfig.dev.json
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\bin\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.csprojAssemblyReference.cache
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfoInputs.cache
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.AssemblyInfo.cs
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.dll
+D:\Courses\COMP229WAD\Submissions\ASS4\C229-G11-A4\C229-G11-A4\C229-G11-A4\Gerald_UO_301064861\Gerald_UO_301064861\Gerald_UO_301064861\obj\Debug\netcoreapp2.0\Gerald_UO_301064861.pdb

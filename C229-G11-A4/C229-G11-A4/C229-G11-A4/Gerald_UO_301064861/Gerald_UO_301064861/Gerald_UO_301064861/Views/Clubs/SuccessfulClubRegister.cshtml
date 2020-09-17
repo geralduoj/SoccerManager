@@ -1,0 +1,17 @@
+﻿@model Club
+
+@{
+    ViewData["Title"] = "SuccessfulClubRegister";
+    Layout = "~/Views/Shared/_GeneralLayout.cshtml";
+}
+
+    <main role="main" class="container">
+        <div class="d-flex align-items-center p-3 my-3 bg-light rounded shadow-sm">
+            <img class="mr-3" src="~/img/checked.svg" alt="" width="48" height="48">
+            <div class="lh-100">
+                <h6 class="mb-0 lh-100">Success</h6>
+                <small>@Model.ClubName has been added to Soccer Manager, Check out your profile now!</small>
+            </div>
+        </div>
+
+    </main>

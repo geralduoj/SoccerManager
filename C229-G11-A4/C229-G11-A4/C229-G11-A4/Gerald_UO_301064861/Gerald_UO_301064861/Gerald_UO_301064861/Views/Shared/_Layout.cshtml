@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/css/indexcss.css" rel="stylesheet" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+
+    <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+        <header class="masthead mb-auto">
+            <div class="inner">
+                <a class="navbar-brand" href="~/Home/Index"><i class="fas fa-futbol"></i> Soccer Manager</a>
+                <nav class="nav nav-masthead justify-content-center">
+                    <a class="nav-link active" asp-controller="Home" asp-action="Index">Home</a>
+                    <a class="nav-link" asp-controller="Clubs" asp-action="AddClub">Register a Club</a>
+                    <a class="nav-link" asp-controller="Clubs" asp-action="AllClubs">Clubs</a>
+
+                </nav>
+            </div>
+        </header>
+
+        @RenderBody()
+
+        <footer class="mastfoot mt-auto">
+            <div class="inner">
+                <p><a href="~/Home/Index">SOCCER MANAGER 2020 <i class="far fa-copyright"></i></a>, by Gerald Uchie-Okoro</p>
+            </div>
+        </footer>
+    </div>
+
+
+    
+</body>
+
+
+</html>
